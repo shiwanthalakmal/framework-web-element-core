@@ -1,7 +1,8 @@
 package com.framework.qa.webelementcore.elementbase.core;
 
-import com.gargoylesoftware.htmlunit.ElementNotFoundException;
+
 import com.framework.qa.utils.memory.WorkingMemory;
+import com.framework.qa.webelementcore.elementbase.exception.ElementNotFoundException;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
